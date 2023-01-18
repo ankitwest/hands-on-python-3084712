@@ -1,7 +1,7 @@
 greet = "Hello World"
 extened_grt = "Hello World, " + "this is a long string"
 
-name = "John"
+name = "John we"
 
 intrupution = f"Hello {name}"
 
